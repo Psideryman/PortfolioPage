@@ -2,7 +2,7 @@
     {
       "title": "Phishing Kit Detection",
       "imageSrc": "/assets/projects/IBM.png",
-      "description": "This was my honors project. I used various analysis methods to verify wether a website was a phishiing scam!",
+      "description": "This was my honors project. I used various analysis methods to verify wether a website was a phishing scam! Demo Currently Unavailable.",
       "skills": ["PHP", "Code Analysis", "Python", "WireShark", "Honeypots"],
       "demo": "#projects",
       "source": "#projects"
@@ -10,7 +10,7 @@
     {
       "title": "Availay",
       "imageSrc": "/assets/projects/Availay.png",
-      "description": "Availay is a quick event scheduling tool. This currently is an ONGOING PROJECT!",
+      "description": "Availay is a quick event scheduling tool. This currently is an ONGOING PROJECT! Demo Currently Unavailable.",
       "skills": ["React", "HTML", "CSS", "Figma", "Python", "JavaScript"],
       "demo": "#projects",
       "source": "https://github.com/Psideryman/Availay"
@@ -18,11 +18,19 @@
     {
       "title": "My Portfolio",
       "imageSrc": "/assets/projects/Portfolio.png",
-      "description": "This is the website you're looking at right now! I'm slowly updating it with easter eggs and better artwork to make the site more my own! Keep an eye out for project changes!",
+      "description": "This is the website you're looking at right now! I'm slowly updating it with easter eggs and better artwork to make the site more my own! Keep an eye out for project updates and website changes!",
       "skills": ["React", "JavaScript", "HTML", "CSS", "Figma"],
       "demo": "https://shaunfrancisportfolio.netlify.app/",
       "source": "https://github.com/Psideryman/PortfolioPage"
     },
+    {
+      "title": "KijijiScraper",
+      "imageSrc": "/assets/projects/scraper.png",
+      "description": "A tool I made to scrape through kijiji listings when I wanted to adopt a cat. Demo Unavailable.",
+      "skills": ["WebScraping", "Python", "API Usage", "Git"],
+      "demo": "https://github.com/Psideryman/KijijiScrapingTool",
+      "source": "https://github.com/Psideryman/KijijiScrapingTool"
+  },
     {
         "title": "View More",
         "imageSrc": "/assets/projects/More.png",
