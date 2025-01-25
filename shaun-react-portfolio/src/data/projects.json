@@ -13,15 +13,15 @@
       "description": "Availay is a quick event scheduling tool. This currently is an ONGOING PROJECT!",
       "skills": ["React", "HTML", "CSS", "Figma", "Python", "JavaScript"],
       "demo": "#projects",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Psideryman/Availay"
     },
     {
       "title": "My Protfolio",
       "imageSrc": "/assets/projects/Portfolio.png",
       "description": "This is the website you're looking at right now! I'm slowly updating it with easter eggs and better artwork to make the site more my own! Keep an eye out for project changes!",
       "skills": ["React", "JavaScript", "HTML", "CSS", "Figma"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://shaunfrancisportfolio.netlify.app/",
+      "source": "https://github.com/Psideryman/PortfolioPage"
     },
     {
         "title": "View More",
