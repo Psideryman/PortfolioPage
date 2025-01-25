@@ -1,0 +1,29 @@
+[
+    {
+      "role": "USRA/LURA Scholarship Research Student",
+      "organisation": "York University",
+      "startDate": "April, 2024",
+      "endDate": "August, 2024",
+      "experiences": ["Trained a computer vision YOLOv8 model", "Created annotation featureset using OpenCV", "Presented findings at 9th annual USRA/LURA Summer Research Conference"],
+      "imageSrc": "history/York.png"
+    },
+    {
+      "role": "Device Integration Co-Op",
+      "organisation": "Warner Brothers",
+      "startDate": "January, 2023",
+      "endDate": "May, 2023",
+      "experiences": ["Optimized video streaming engine", "Refined app implementations", "Created integration tests for platforms such as Android, OSX, Linux, etc..."],
+      "imageSrc": "history/WarnerBrothers.png"
+    },
+    {
+      "role": "Developer Co-Op Student",
+      "organisation": "Sunnybrook Health Sciecne Center",
+      "startDate": "June, 2022",
+      "endDate": "September, 2022",
+      "experiences": [
+        "Created software lifecycle diagrams",
+        "Helped create a dataflow pipeline to use with automated tumor detection"
+      ],
+      "imageSrc": "history/sunnybrook.png"
+    }
+  ]
