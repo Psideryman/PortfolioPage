@@ -19,6 +19,12 @@
     z-index: 1;    
 }
 
+.content h2{
+    font-size: 30px;
+    font-family: var(--family-roboto);
+    margin-bottom: 52px;
+}
+
 .title {
     font-size: 72px;
     font-weight: 900;

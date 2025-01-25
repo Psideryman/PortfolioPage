@@ -16,7 +16,7 @@
       "source": "https://github.com/Psideryman/Availay"
     },
     {
-      "title": "My Protfolio",
+      "title": "My Portfolio",
       "imageSrc": "/assets/projects/Portfolio.png",
       "description": "This is the website you're looking at right now! I'm slowly updating it with easter eggs and better artwork to make the site more my own! Keep an eye out for project changes!",
       "skills": ["React", "JavaScript", "HTML", "CSS", "Figma"],

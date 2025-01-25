@@ -9,6 +9,7 @@ export const Welcome = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hello, I'm Shaun Francis!</h1>
             <p className={styles.description}>I'm a recent Computer Science graduate who loves to code! Please reach out if you'd like to learn more!</p>
+            <h2>This site is currently undergoing some major rennovations so expect updates soon!</h2>
             <a href="mailto:shaun.akash@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>
         <img src={Icon} alt="My Logo" className={styles.iconimg}/>
