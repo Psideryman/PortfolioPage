@@ -1,38 +1,47 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "skills/html.png",
+      "link": "#experience"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "imageSrc": "skills/css.png",
+      "link": "#experience"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "skills/react.png",
+      "link": "#experience"
     },
     {
       "title": "Node",
       "imageSrc": "skills/node.png"
+      ,"link": "#experience"
     },
     {
       "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/figma.png",
+      "link": "#experience"
     },
     {
         "title": "Python",
-        "imageSrc": "skills/pythoned.png"
+        "imageSrc": "skills/pythoned.png",
+        "link": "#experience"
     },
     {
         "title": "Git",
-        "imageSrc": "skills/git.png"
+        "imageSrc": "skills/git.png",
+        "link": "#experience"
     },
     {
         "title": "OpenCV",
-        "imageSrc": "skills/opencv.png"
+        "imageSrc": "skills/opencv.png",
+        "link": "#experience"
     },
     {
         "title": "View More",
-        "imageSrc": "skills/more.png"
+        "imageSrc": "skills/more.png",
+        "link": "https://uottawa-my.sharepoint.com/personal/sfran112_uottawa_ca/_layouts/15/guestaccess.aspx?share=EYI-PmELhk9IowoHQqqZ8rsBCtQI2fDOy9EXyLLeuAFYNQ&e=brkmlT"
     }
   ]

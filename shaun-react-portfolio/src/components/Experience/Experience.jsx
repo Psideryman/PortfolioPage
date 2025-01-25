@@ -12,10 +12,13 @@ export const Experience = () => {
                 <div className={styles.skills}>
                     {skills.map((skill, id) => {
                     return (
+                        
                     <div key={id} className={styles.skill}>
+                        <a href ={skill.link}>
                         <div className={styles.skillImageContainer}>
                             <img src={"/assets/" + skill.imageSrc} alt={skills.title}/>
                         </div>
+                        </a>
                         <p>{skill.title}</p>
                     </div>
                     );
