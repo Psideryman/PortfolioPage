@@ -31,6 +31,14 @@
       "demo": "https://github.com/Psideryman/KijijiScrapingTool",
       "source": "https://github.com/Psideryman/KijijiScrapingTool"
   },
+  {
+    "title": "BoC Valet API Test",
+    "imageSrc": "/assets/projects/boc.png",
+    "description": "A tool I made to gain a better understanding of the BoC Valet API. It uses the BoC Valet API to calcualte FERs and interest rates. ONGOING PROJECT.",
+    "skills": ["APIs", "HTML", "CSS", "Figma", "React", "Javascript"],
+    "demo": "https://www.figma.com/design/M2kjbsdW5ERzuUxAuEyqfR/FER-Calculator-Site?node-id=0-1&t=j8dJEsXWaGJ39acf-1",
+    "source": "#projects"
+},
     {
         "title": "View More",
         "imageSrc": "/assets/projects/More.png",
