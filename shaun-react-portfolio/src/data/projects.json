@@ -37,7 +37,7 @@
     "description": "A tool I made to gain a better understanding of the BoC Valet API. It uses the BoC Valet API to calcualte FERs and interest rates. ONGOING PROJECT.",
     "skills": ["APIs", "HTML", "CSS", "Figma", "React", "Javascript"],
     "demo": "https://www.figma.com/design/M2kjbsdW5ERzuUxAuEyqfR/FER-Calculator-Site?node-id=0-1&t=j8dJEsXWaGJ39acf-1",
-    "source": "#projects"
+    "source": "https://github.com/Psideryman/FERBOC/"
 },
     {
         "title": "View More",
